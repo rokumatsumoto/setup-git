@@ -1,3 +1,2 @@
 # setup-git
-Testing branch, pr.
-i came here to make a conflict.
+Testing branch, pull request.
