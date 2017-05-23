@@ -1,7 +1,1 @@
- ➞ fancy unicode arrow here
-
-
-
-
-
- some error prone code here
+➞ fancy unicode arrow here
