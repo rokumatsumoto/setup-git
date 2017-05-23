@@ -1,2 +1,2 @@
 # setup-git
-Testing branch, pull request.
+Git experimental playground
