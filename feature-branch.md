@@ -3,3 +3,4 @@ will see merge conflict line?
 emergency fix
 make some staged changes for amend
 amend
+x
