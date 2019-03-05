@@ -1,0 +1,15 @@
+/*
+* Color palettes
+*/
+
+$kaitoke_green: #004620;
+$cobalt:    #0047ab;
+$crusoe:    #004816;
+$sherpa_blue:   #004950;
+
+@media (max-width: 767px) {
+  width: 100%;
+  left: 0;
+  top: -4px; // quickfix to center line between columns
+  height: 1px;
+}
